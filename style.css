@@ -1,7 +1,7 @@
 body { background-color: blueviolet;}
 
 header {
-    color: rgb(rgb(68, 0, 255), green, blue)
+    color:rgb(68, 0, 255)
 }
 p {
     color: bisque;
@@ -20,6 +20,16 @@ img {
     border: 2px white;
     padding: 15%
 }
+
+ul {
+    color: bisque;
+    font-size: medium; font-style: italic;
+    text-align: left;
+    margin-bottom: 2%;
+    border: 2px;
+    padding: 12%;
+}
+
 ul {
 color: bisque;
 font-size: medium;

@@ -1,0 +1,22 @@
+body { background-color: blueviolet;}
+
+header {
+    color: rgb(rgb(68, 0, 255), green, blue)
+}
+p {
+    color: bisque;
+    font-size: medium; font-style: italic;
+    text-align: center;
+    margin-bottom: 2%;
+    border: 2px;
+    padding: 12%;
+}
+div {
+    background-color: black;
+    border: 2px white;
+}
+img { 
+    width: 45%;
+    border: 2px white;
+    padding: 15%
+}
